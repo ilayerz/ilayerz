@@ -1,7 +1,7 @@
 ### Hi there, Baptiste here 👋
 
 Hello !
-I'm Baptiste, Full Stack Developer at *Stych* was student at Epitech Montpellier ( MSC-2022 )
+I'm Baptiste, Full Stack Developer at *Stych*, was student at Epitech Montpellier ( MSC-2022 )
 
 * 🔭 I’m currently working for *Stych* 
 * 💬 Ask me about anything [here](https://github.com/ilayerz/ilayerz/issues)
